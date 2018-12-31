@@ -1,4 +1,7 @@
-# beauty
+
+# IMDB review sentiment analysis
+
+# Cosmetic review sentiment analysis
 
 현재 당면한 문제(지속적 해결중. history 관리)
 @ (해결)네이버 영화 감성분석.ipynb처럼 리뷰 입력하면 긍정, 부정 분류해주는 모델을 만들고자 합니다. 그런데 learning()을 하면 에러가 납니다...  
