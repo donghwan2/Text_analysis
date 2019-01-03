@@ -1,5 +1,5 @@
 
-# 1.IMDB review sentiment analysis
+1.IMDB review sentiment analysis
   * (1) Bag of Words
 ## (2) Word2Vec
 
