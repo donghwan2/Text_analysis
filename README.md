@@ -1,7 +1,7 @@
 
-1.IMDB review sentiment analysis
-  * (1) Bag of Words
-## (2) Word2Vec
+# 1.IMDB review sentiment analysis
+* Bag of Words
+* Word2Vec
 
 # 2. Naver movie review sentiment analysis
 
